@@ -1,1 +1,2 @@
-print('hy')
+
+print(5-3)
